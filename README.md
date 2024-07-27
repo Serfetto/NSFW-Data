@@ -10,6 +10,6 @@ NSFW data — это порнографические данные, собран
 
 [hentai pack](https://drive.google.com/drive/folders/13rMPxoGLIsfq8XNqBh0B7qg2a1mP91Cn?usp=sharing) — это личный набор фотографий с хентаем, собранный из разных источников в интернете. В нём около 3500 фотографий.
 
-[images_links.txt]() - текстовый файл, в котором содержится около 1 600 000 ссылок на порнографические фотографии.
+[images_links.txt](https://drive.google.com/file/d/1VwqsUvuw11htJ2Dqs5PShg7QGq5a7VLs/view?usp=sharing) - текстовый файл, в котором содержится около 1 600 000 ссылок на порнографические фотографии. Взято с данного [датасета](https://pastebin.com/xb4X99cq)
 
 Также есть другой [датасет](https://archive.org/details/dataset-nude), скачанный с торрента, который содержит фотографии в жанрах хентай и порно, разделённые на папки train, test и validation. Классы, на которые они разделены: nude (обнажённые) и safe (безопасные).
