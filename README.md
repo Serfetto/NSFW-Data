@@ -10,7 +10,7 @@ NSFW data — это порнографические данные, собран
 
 [nsfw_detect](https://huggingface.co/datasets/deepghs/nsfw_detect) — это размеченный датасет, аналогичный первому. Я не проверял, не повторяются ли в них фотографии из первого набора данных.
 
-Фотографии с сайта rule34 были получены с помощью библиотеки [pyrule34](https://github.com/Hypick122/pyrule34), которая позволила получить данные с сайта и расширить набор фотографий на тематику хентая. Ноутбук [Parse_images_from_rule34.ipynb](https://github.com/Serfetto/NSFW-Data/blob/main/Parse_images_from_rule34.ipynb). 
+Фотографии с сайта rule34 были получены с помощью библиотеки [pyrule34](https://github.com/b3yc0d3/rule34Py), которая позволила получить данные с сайта и расширить набор фотографий на тематику хентая. Ноутбук [Parse_images_from_rule34.ipynb](https://github.com/Serfetto/NSFW-Data/blob/main/Parse_images_from_rule34.ipynb). 
 
 ```num_of_pages``` - вы можете изменить эту настройку, чтобы сайт загружался с определённой страницы.
 
