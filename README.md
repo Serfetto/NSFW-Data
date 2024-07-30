@@ -2,7 +2,8 @@
 
 NSFW data — это порнографические данные, собранные из разных источников.
 
-[delete bad urls](https://github.com/Serfetto/NSFW-Data/blob/main/delete_bad_urls.ipynb) - Ноутбук, который удаляет из текстового файла репозитория неоткрывающиеся ссылки из репозиториев [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) или [yuanyuanhuiyi/alexkimxyz](https://github.com/yuanyuanhuiyi/alexkimxyz). Чтобы изменить когда сохранять файл измените в коде вот эту строчку: ```path_to_file = f"/content/nsfw_data_scraper/raw_data/{folder}/new_urls_{folder}.txt"```
+[delete bad urls](https://github.com/Serfetto/NSFW-Data/blob/main/delete_bad_urls.ipynb) - Ноутбук, который удаляет из текстового файла репозитория неоткрывающиеся ссылки из репозиториев [alex000kim/nsfw_data_scraper](https://github.com/alex000kim/nsfw_data_scraper) или [yuanyuanhuiyi/alexkimxyz](https://github.com/yuanyuanhuiyi/alexkimxyz). Чтобы изменить когда сохранять файл измените в коде вот эту строчку: 
+```path_to_file = f"/content/nsfw_data_scraper/raw_data/{folder}/new_urls_{folder}.txt"```
 
 [new_raw_data](https://github.com/Serfetto/nsfw_data/tree/main/new_raw_data) — это папка, содержащая текстовые файлы со ссылками на фотографии в жанрах hentai, porn, sexy и neutral, а также на рисунки. Данные были взяты из репозитория [yuanyuanhuiyi/alexkimxyz](https://github.com/yuanyuanhuiyi/alexkimxyz), который был создан около 5 лет назад. Некоторые ссылки в репозитории перестали работать, поэтому я решил обработать неработающие ссылки. На момент публикации этого репозитория в нём содержатся все рабочие ссылки.
 
